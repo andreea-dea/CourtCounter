@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">American Football Scores App</string>
-
+    <string name="settings">Settings</string>
 </resources>

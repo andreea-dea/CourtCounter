@@ -76,10 +76,12 @@ public class MainActivity extends AppCompatActivity {
         scoreTeamB = scoreTeamB + 3;
         displayForTeamB(scoreTeamB);
     }
+
     public void add2ForTeamB(View v) {
         scoreTeamB = scoreTeamB + 2;
         displayForTeamB(scoreTeamB);
     }
+
     public void resetScore(View v) {
         scoreTeamA = 0;
         scoreTeamB = 0;
